@@ -49,8 +49,8 @@
 
 1. Клонируй репозиторий:
    ```bash
-   git clone https://github.com/username/telegram-shop-bot.git
-   cd telegram-shop-bot`
+   git clone https://github.com/username/Online-TG-Shop.git
+   cd Online-TG-Shop
    ```
 2. Вводи свой токен бота
 
