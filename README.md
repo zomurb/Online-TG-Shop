@@ -49,7 +49,7 @@
 
 1. Клонируй репозиторий:
    ```bash
-   git clone https://github.com/username/Online-TG-Shop.git
+   git clone https://github.com/somurb/Online-TG-Shop.git
    cd Online-TG-Shop
    ```
 2. Вводи свой токен бота
